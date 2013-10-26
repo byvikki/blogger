@@ -1,4 +1,4 @@
-package com.net.blog.model;
+package com.net.blog.models;
 
 import javax.persistence.Entity;
 import javax.persistence.Table;
